@@ -1,6 +1,6 @@
 # BMICalculator
 
-This Java program calculates the **Body Mass Index (BMI)** of multiple individuals based on their height and weight. It then classifies each person's weight status (Underweight, Normal, Overweight, or Obese) based on standard BMI ranges.
+This Java program calculates the **Body Mass Index (BMI)** of multiple individuals based on their height and weight. It then classifies each person's weight status (Underweight, Normal, Overweight, or Obese) based on standard BMI ranges. This is a terminal based program.
 
 
 # Purpose
@@ -32,8 +32,6 @@ This project aims to raise awareness about personal health by helping users unde
    - Inputs height (in meters) and weight (in kg).
 3. The program calculates BMI using the formula:
    BMI = weight / (height * height)
-
-   
 4. It stores and displays each person’s:
 - Height
 - Weight
